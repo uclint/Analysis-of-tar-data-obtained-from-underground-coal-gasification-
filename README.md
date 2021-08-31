@@ -1,4 +1,4 @@
-# Analysis-of-tar-data-obtained-from-underground-coal-gasification-
+# Analysis of tar data-obtained from underground coal gasification
 Technologies: ChromaTOF Tile, Microsoft Excel, and R
 
 
