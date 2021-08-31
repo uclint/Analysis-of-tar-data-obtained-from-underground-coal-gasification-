@@ -10,7 +10,8 @@ However, UCG has not been commercially adopted, and one of the reasons is becaus
 The analysis was carried out using non-targeted two-dimensional gas chromatography time of flight mass spectrometry techniques. This was equipped with ChromaTOF Tile, which uses the Fisher ratio and principal component analysis statistical tools to find distinguishing compounds, cluster samples, and find the compounds responsible for the sample clustering. Microsoft Excel and R studio was used to further group the samples and perform analysis on the dataset. The compounds fell under five major categories: polycyclic aromatic hydrocarbons, nitrogenous compounds, oxygenic compounds, aliphatic hydrocarbons, and sulfuric compounds. Some group of compounds (Alkanes and alkenes, benzene and its derivatives, oxygenic and nitrogenous) were found to have massive increase or decrease after the reactor got exposed. This led them to be highlighted as key groups to be monitored to determine exposure in the reactor.
 
 
-![POSTER JPEG](https://user-images.githubusercontent.com/86573734/131540802-6a2d6ec6-874c-444e-b334-f7150c9d16cf.PNG)
+![image](https://user-images.githubusercontent.com/86573734/131543290-b40d2828-1e0d-4bb4-b5b1-863518e50cbe.png)
+
 
 
 
